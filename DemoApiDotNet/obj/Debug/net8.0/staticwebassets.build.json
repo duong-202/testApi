@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TEf5krYMM1HqY6amPRMQ4fZHezjkKDuF6FoPSh9LFx8=",
+  "Source": "DemoApiDotNet",
+  "BasePath": "_content/DemoApiDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,7 @@
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.csproj.AssemblyReference.cache
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.AssemblyInfoInputs.cache
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.AssemblyInfo.cs
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.csproj.CoreCompileInputs.cache
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\LTS\API\Xây dựng base API\DemoApiDotNet\DemoApiDotNet\obj\Debug\net8.0\DemoApiDotNet.Api.MvcApplicationPartsAssemblyInfo.cache
